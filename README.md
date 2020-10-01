@@ -1,7 +1,7 @@
 [![HitCount](http://hits.dwyl.io/susantabiswas/facial-keypoint-regression.svg)](http://hits.dwyl.io/susantabiswas/facial-keypoint-regression)
 # <u>Facial Keypoint Detection</u>
 
-I have made a Facial Keypoints Regressor that regresses the keypoints for human face. This keypoint detection problem is a regression problem since we are predicting the coordinates for the landmarks on the face which are real numbers. 
+I have made a Facial Keypoints Regressor that regresses the keypoints for humans face. This keypoint detection problem is a regression problem since we are predicting the coordinates for the landmarks on the face which are real numbers. 
 Detection of facial keypoints is very useful for a number of tasks like facial recognition, detection etc. The keypoints selected in this code uses 15 keypoints representing the various coordinates on the human face. 
 The dataset for this problem was downloaded from Kaggle https://www.kaggle.com/c/facial-keypoints-detection/. 
 
